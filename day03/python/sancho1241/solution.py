@@ -36,6 +36,8 @@ class Toboggan ():
         return self.treesHit
 
         
+class basicMap():
+    None
 
 class Map ():
     
